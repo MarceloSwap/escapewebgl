@@ -6,4 +6,4 @@ https://marceloswap.github.io/escapewebgl/
 
 Objetivo: coletar os queijos e fugir do gato pulando por cima
 
-Controle: espaço para pular e setas para direita e esquerda para controlar o personagem
+Controle: espaço para pular, setas para direita e esquerda para controlar o personagem
