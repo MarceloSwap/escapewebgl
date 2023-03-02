@@ -1,5 +1,7 @@
 # escapewebgl
-ESTUDO DE CASO - Jogo simples criado no Unity com C# para acessa-lo é só clicar no link:
+ESTUDO DE CASO
+
+Jogo simples criado no Unity com C# para acessa-lo é só clicar no link:
 https://marceloswap.github.io/escapewebgl/
 
 Objetivo: coletar os queijos e fugir do gato pulando por cima
